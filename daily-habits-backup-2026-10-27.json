@@ -1,0 +1,136 @@
+{
+  "app": "Daily Habits - मेरी अच्छी आदतें",
+  "version": 1,
+  "exportedAt": "2026-10-27T16:17:39.302Z",
+  "habits": [
+    {
+      "id": "starter-water",
+      "name": "पानी पीना",
+      "icon": "Droplet",
+      "category": "स्वास्थ्य",
+      "targetType": "numeric",
+      "targetValue": 8,
+      "unit": "गिलास",
+      "frequencyType": "daily",
+      "scheduledDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "reminderTime": "08:00",
+      "color": "sky",
+      "createdAt": "2026-10-27T15:32:07.756Z",
+      "isPaused": false
+    },
+    {
+      "id": "starter-reading",
+      "name": "20 मिनट पढ़ना",
+      "icon": "BookOpen",
+      "category": "पढ़ाई",
+      "targetType": "numeric",
+      "targetValue": 20,
+      "unit": "मिनट",
+      "frequencyType": "daily",
+      "scheduledDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "reminderTime": "21:00",
+      "color": "amber",
+      "createdAt": "2026-10-27T15:32:07.765Z",
+      "isPaused": false
+    },
+    {
+      "id": "starter-exercise",
+      "name": "15 मिनट व्यायाम",
+      "icon": "Activity",
+      "category": "स्वास्थ्य",
+      "targetType": "numeric",
+      "targetValue": 15,
+      "unit": "मिनट",
+      "frequencyType": "daily",
+      "scheduledDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "reminderTime": "06:30",
+      "color": "emerald",
+      "createdAt": "2026-10-27T15:32:07.765Z",
+      "isPaused": false
+    },
+    {
+      "id": "starter-wake-up",
+      "name": "सुबह जल्दी उठना",
+      "icon": "Sunrise",
+      "category": "व्यक्तिगत विकास",
+      "targetType": "boolean",
+      "targetValue": 1,
+      "unit": "हां/ना",
+      "frequencyType": "daily",
+      "scheduledDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "reminderTime": "06:00",
+      "color": "orange",
+      "createdAt": "2026-10-27T15:32:07.765Z",
+      "isPaused": false
+    },
+    {
+      "id": "starter-meditation",
+      "name": "10 मिनट ध्यान या आत्मचिंतन",
+      "icon": "Heart",
+      "category": "इबादत",
+      "targetType": "numeric",
+      "targetValue": 10,
+      "unit": "मिनट",
+      "frequencyType": "daily",
+      "scheduledDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "reminderTime": "07:00",
+      "color": "purple",
+      "createdAt": "2026-10-27T15:32:07.765Z",
+      "isPaused": false
+    }
+  ],
+  "history": {
+    "2026-10-27": {
+      "starter-reading": {
+        "completed": true,
+        "currentValue": 20,
+        "updatedAt": "2026-10-27T15:32:46.519Z"
+      }
+    }
+  },
+  "settings": {
+    "theme": "light",
+    "soundEnabled": true,
+    "notificationsEnabled": false
+  }
+}
